@@ -1,5 +1,5 @@
 
-article {
+.card {
     background-color: #ffffff;
     padding: 1.5rem;
     border-radius: 1rem;
@@ -8,18 +8,18 @@ article {
     width: 100%;
   }
   
-  article h2 {
+  .card h2 {
     margin: 0;
     font-size: 1.5rem;
     font-weight: 600;
   }
   
-  article p {
+  .card p {
     margin: 0.5rem 0;
     line-height: 1.6;
   }
   
-  article a {
+  .card a {
     display: inline-block;
     margin-top: 0.75rem;
     color: #2563eb;
@@ -27,6 +27,6 @@ article {
     font-weight: 500;
   }
   
-  article a:hover {
+  .card a:hover {
     text-decoration: underline;
   }

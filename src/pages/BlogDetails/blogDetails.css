@@ -1,4 +1,12 @@
 .blog-details{
+    padding: 30px 100px;
+}
+
+.blog-details div{
+
     display: flex;
-    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+
 }

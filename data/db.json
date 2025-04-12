@@ -2,21 +2,24 @@
   "blogs": [
     {
       "id": 1,
-      "title": "My First Blog Post",
-      "excerpt": "This is a short summary of my first post. I talk about my journey into blogging and what inspired me to start writing.",
-      "date": "April 12, 2025"
+      "title": "Exploring the Mountains",
+      "excerpt": "An adventurous journey through the snowy peaks.",
+      "date": "2025-04-10",
+      "body": "Last weekend, I went hiking through the northern mountain range. The views were breathtaking, the air was crisp, and the climb was challenging. I encountered a variety of wildlife and even spotted a rare eagle soaring above. It was a much-needed escape from daily routines and a reminder of nature's power and beauty."
     },
     {
       "id": 2,
-      "title": "Another Day, Another Thought",
-      "excerpt": "Some reflections on life and code. I explore the challenges of staying motivated and balancing creativity with discipline.",
-      "date": "April 10, 2025"
+      "title": "A Day in the City",
+      "excerpt": "The rhythm of city life through my lens.",
+      "date": "2025-04-08",
+      "body": "Cities never sleep, and that’s what I love about them. From early morning joggers to late-night food stalls, there’s always something happening. I spent the day walking through downtown, snapping photos of street art, trying new foods, and talking to friendly strangers. It’s amazing how much inspiration a single day in the city can provide."
     },
     {
       "id": 3,
-      "title": "Why I Love Minimal Design",
-      "excerpt": "A quick dive into my appreciation for minimalism in web design and how it influences my workflow.",
-      "date": "April 7, 2025"
+      "title": "Quiet Moments by the Sea",
+      "excerpt": "Reflections on solitude and the sound of waves.",
+      "date": "2025-04-05",
+      "body": "Sometimes, the best therapy is a quiet moment by the ocean. I spent an entire afternoon sitting on the rocky shore, letting the waves do all the talking. Thoughts came and went like the tide, and I finally felt a sense of peace I hadn’t felt in weeks. It’s in those still moments that clarity often finds us."
     }
   ]
 }

@@ -8,12 +8,12 @@ const BlogList = ({data}) => {
         <div className="blog-list">
             {
                 data && data.map(blog=>(
-                    <article key={blog.id}>
+                    <div className='card' key={blog.id}>
                         <h2>{blog.title}</h2>
                         <p className="post-date">{blog.date}</p>
                         <p>{blog.excerpt}</p>
                         <button onClick={()=>navigate(`/blogs/${blog.id}`)}>Read more →</button>
-                    </article>  
+                    </div>  
                 ))
             }  
             
