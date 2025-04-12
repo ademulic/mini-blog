@@ -21,7 +21,7 @@ const Home = () => {
             setData(data);
         }
       ).catch(err=>{
-        setError(err);
+        setError(err.message);
         setIsLoading(false);
       });  
     },[]);

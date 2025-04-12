@@ -1,5 +1,7 @@
 import { useEffect,useState } from "react";
 import { useParams } from "react-router-dom";
+
+import NotFound from "../../pages/NotFound/NotFound";
 import './blogDetails.css';
 const BlogDetails = () => {
 
@@ -31,7 +33,7 @@ const BlogDetails = () => {
     return ( 
         <section className="blog-details">
             {isLoading && <p>Loading...</p>}
-            {error && <p>{error}</p>}
+            {error && <NotFound/>}
             {data
             &&
             <div>

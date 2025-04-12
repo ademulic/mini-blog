@@ -1,4 +1,8 @@
 
+.home{
+  gap: 20px;
+}
+
 article {
     background-color: #ffffff;
     padding: 1.5rem;
