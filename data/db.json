@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My First Blog Post",
+      "excerpt": "This is a short summary of my first post. I talk about my journey into blogging and what inspired me to start writing.",
+      "date": "April 12, 2025"
+    },
+    {
+      "id": 2,
+      "title": "Another Day, Another Thought",
+      "excerpt": "Some reflections on life and code. I explore the challenges of staying motivated and balancing creativity with discipline.",
+      "date": "April 10, 2025"
+    },
+    {
+      "id": 3,
+      "title": "Why I Love Minimal Design",
+      "excerpt": "A quick dive into my appreciation for minimalism in web design and how it influences my workflow.",
+      "date": "April 7, 2025"
+    }
+  ]
+}
